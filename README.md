@@ -4,7 +4,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=currentScript)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on a clicker game made in JavaScript
