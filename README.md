@@ -6,7 +6,7 @@ A hobby frontend developer from Germany
 
 - 🌱 I’m currently learning JavaScript and Frameworks
 
-- 📫 How to reach me [![Twitter](https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=ffffff)](https://twitter.com/currentscript)
+- 📫 You can reach me on [Twitter](https://twitter.com/CurrentScript)
 
 ## Technologies and Tools I use
 
