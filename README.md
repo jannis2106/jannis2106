@@ -10,6 +10,7 @@ A hobby frontend developer from Germany
 
 ## Technologies and Tools I use
 
+[![VS Code](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png?style=for-the-badge&logo=Visual-studio-code&logoColor=ffffff)](https://twitter.com/currentscript)
 [![VS Code](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/512px-Visual_Studio_Code_1.18_icon.svg.png?width="25")](https://code.visualstudio.com/)
 [![Adobe XD](https://www.adobe.com/content/dam/cc/icons/xd.svg)](https://www.adobe.com/de/products/xd.html)
 
