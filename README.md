@@ -5,7 +5,7 @@ A hobby frontend developer from Germany
 ## About Me
 
 - 🌱 I’m currently learning JavaScript and Frameworks
-
+- 🔭 At the moment I'm working on a clicker game made in JavaScript
 - 📫 You can reach me on [Twitter](https://twitter.com/CurrentScript)
 
 
