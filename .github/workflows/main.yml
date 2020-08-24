@@ -13,8 +13,6 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: currentScript/currentScript
           SHOW_TITLE: false
-          COMMIT_MESSAGE: Updated the Graph with new Metrics
