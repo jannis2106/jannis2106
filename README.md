@@ -9,6 +9,7 @@ A hobby frontend developer from Germany
 - 📫 You can reach me on [Twitter](https://twitter.com/CurrentScript)
 
 
+## Technologies and Tools I use
 <details>
 <summary>Technologies and Tools I use</summary>
 <br>
@@ -26,7 +27,7 @@ A hobby frontend developer from Germany
 
 </details>
 
-
+## Stats
 <details>
 <summary>Stats</summary>
 <br>
