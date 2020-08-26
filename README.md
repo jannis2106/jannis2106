@@ -31,7 +31,9 @@ A hobby frontend developer from Germany
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS          19 mins         ██████████████████▓░░░░░░   74.62 % 
+HTML         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
+JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 <!--END_SECTION:waka-->
 
