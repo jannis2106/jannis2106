@@ -16,3 +16,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           REPOSITORY: currentScript/currentScript
           SHOW_TITLE: false
+          SHOW_PROJECTS: "False"
+          SHOW_TIMEZONE: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_OS: "False"
+          SHOW_LINES_OF_CODE: "True" 
