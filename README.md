@@ -24,19 +24,3 @@ A hobby frontend developer from Germany
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-## Stats
-<details>
-<summary>Stats</summary>
-<br>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=currentScript&show_icons=true&theme=dracula" alt="currentScript" /></p>
-
-<!--START_SECTION:waka-->
-```text
-CSS          19 mins         ██████████████████▓░░░░░░   74.62 % 
-HTML         4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-```
-<!--END_SECTION:waka-->
-
-</details>
