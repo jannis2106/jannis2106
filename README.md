@@ -24,3 +24,12 @@ A hobby frontend developer from Germany
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
 
 
+<details>
+  <summary>Stats</summary>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=currentScript&title_color=dbdada&icon_color=dbdada&text_color=3BD98F&&card_width=350&theme=radical&"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=currentScript&title_color=dbdada&icon_color=dbdada&text_color=3BD98F&show_icons=true&theme=radical&line_height=27"/>
+</details>
+
+
+
