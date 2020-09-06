@@ -1,6 +1,13 @@
-# Hi there, I'm currentScript
+<h1 align="center">
+<img src="https://cdn.betterttv.net/emote/58ae8407ff7b7276f8e594f2/3x" height=60>
+  Hello World, I'm currentScript
+<img src="https://cdn.betterttv.net/emote/5a6edb51f730010d194bdd46/3x" height=70>
+</h1>
+<h3 align=center>A hobby coder from Germany
+<img src="https://cdn.betterttv.net/emote/5ed2813df54be95e2a836d98/3x" height=40 align="center">
+</h3>
 
-A hobby frontend developer from Germany
+
 
 ## About Me
 
