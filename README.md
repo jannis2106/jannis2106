@@ -4,7 +4,7 @@
 <img src="https://cdn.betterttv.net/emote/5ed2813df54be95e2a836d98/3x" height=60>
 </h1>
 <h3 align=center>A hobby coder from Germany
-<img src="https://cdn.betterttv.net/emote/58ae8407ff7b7276f8e594f2/3x" height=40 align="center">
+<img src="https://cdn.betterttv.net/emote/5d38aaa592fc550c2d5996b8/3x" height=40 align="center">
 </h3>
 
 ## About Me
