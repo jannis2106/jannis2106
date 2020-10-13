@@ -9,8 +9,8 @@
 
 ## About Me
 
-- 🌱 I’m currently learning JavaScript and Frameworks
-- 🔭 At the moment I'm working on a clicker game made in JavaScript (<a href="https://github.com/currentScript/Code-Clicker">codeClicker</a>)
+- 🌱 I’m currently learning JavaScript and Frameworks/Libraries
+- 🔭 At the moment I'm working on learning react
 - 📫 You can reach me on [Twitter](https://twitter.com/CurrentScript)
 
 
