@@ -24,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=4f84ff)
 [![SASS](https://img.shields.io/badge/-SASS-black?style=flat-square&logo=sass)](https://sass-lang.com/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)](https://reactjs.org/)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://git-scm.com/)
