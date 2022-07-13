@@ -2,3 +2,5 @@
 
 using:
 typescript - react - graphql - postgres
+
+trying out linux atm
