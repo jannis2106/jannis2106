@@ -1,6 +1,4 @@
-<h6>idk what im doin</h6>
+> "Don't do it like he did, 'cause he ain't what you is"
 
-using:
-typescript - react - graphql - postgres
-
-trying out linux atm
+used to do some TypeScript things, 
+now I'm getting lost the world of IIoT
